@@ -1,5 +1,5 @@
 # 4th Order Runge Kutta Method
-Solving systems of differential equations 
+Solving simultaneous nonlinear systems of equations using the classic Runge-Kutta method (RK4), for the Lorenz Attractor.
 
 # 3D Lorenz Attractor in Matplotlib
 ![](https://github.com/Maikuhl/4th-Order-Runge-Kutta-Python/blob/master/3D_Lorenz.jpeg) 

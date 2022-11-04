@@ -12,9 +12,9 @@ def fz(x,y,z,t): return x*y-b*z         # time derivative of z
 # defining constants in the lorenz equation
 sigma = 10.0        # float sigma
 b = 8.0 / 3.0       # float b
-r = 350.0            # float r
+r = 28.0            # float r
 t_in = 0.0          # float initial value of t
-t_fin = 5.0        # float final value of t
+t_fin = 60.0        # float final value of t
 h = 0.01            # float step size h
 total_steps = int(np.floor((t_fin-t_in)/h))     # integer value of total number of steps in the Runge-Kutta method
 
